@@ -25,5 +25,5 @@
      "ranking":2},
     {"alumno":"Maarta",
      "nota":6.2,
-     "ranking":100},
+     "ranking":100}
 ]
