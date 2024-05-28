@@ -19,7 +19,7 @@
      "ranking":205},
     {"alumno":"Anna",
      "nota":5,
-     "ranking":169},
+     "ranking":130},
     {"alumno":"Gonzalo",
      "nota":10,
      "ranking":2},
